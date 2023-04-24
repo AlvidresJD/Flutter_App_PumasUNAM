@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "793154239105",
+    "project_id": "crud-pumasunam",
+    "storage_bucket": "crud-pumasunam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793154239105:android:e30b2f943d5cb458eeab80",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793154239105-k7ikoidj5j7gkh8iql3ci17dodta4mvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEUA2RvFCiZrXhpmLLc2_5LY0lA8dNyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793154239105-k7ikoidj5j7gkh8iql3ci17dodta4mvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793154239105:android:1d3ada32b543ff2eeeab80",
+        "android_client_info": {
+          "package_name": "com.example.login_pumas_unam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793154239105-k7ikoidj5j7gkh8iql3ci17dodta4mvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEUA2RvFCiZrXhpmLLc2_5LY0lA8dNyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793154239105-k7ikoidj5j7gkh8iql3ci17dodta4mvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
